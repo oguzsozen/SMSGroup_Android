@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900767859764",
+    "project_id": "smsgroup-b3271",
+    "storage_bucket": "smsgroup-b3271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900767859764:android:70b0c30af3c149996bf661",
+        "android_client_info": {
+          "package_name": "com.example.smsgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900767859764-6djc9cqp74f5b8h85i2ogrprveogp5o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOO3q5NRTFquoQMVRAqNNkz3bHesCYzko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900767859764-6djc9cqp74f5b8h85i2ogrprveogp5o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
